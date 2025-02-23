@@ -5,9 +5,40 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: rgb(47, 35, 76);
+  background-image: url("C:\Users\Adesjh\Desktop\PrasnolProject\CounterApp\counter\billy-huynh-W8KTS-mhFUE-unsplash.jpg");
 }
+
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+
+
+
+.card-body{
+  /* background-color: chartreuse; */
+  /* box-shadow: 20px; */
+  background-image: url("C:\Users\Adesjh\Desktop\PrasnolProject\CounterApp\counter\billy-huynh-W8KTS-mhFUE-unsplash.jpg");
+  color: chartreuse;
+  height: auto;
+  width: auto;
+  box-shadow: deeppink;
+ 
+}
+.btn btn-success mx-3{
+   border: 2px solid black;
+   box-shadow: var(-apple-system);
+   font-size: 30px;
+}
+.F1{
+  color: chartreuse;
+  text-transform: uppercase;
+  text-shadow: 40px chartreuse;
+  animation: 3s ease-in 1s 2 reverse both paused slide-in;
+  /* background-color: hsl(294, 94%, 52%); */
+  text-align:center;
+  font-size: 70px;
 }
