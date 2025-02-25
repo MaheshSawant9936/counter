@@ -5,8 +5,8 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: rgb(47, 35, 76);
-  background-image: url("C:\Users\Adesjh\Desktop\PrasnolProject\CounterApp\counter\billy-huynh-W8KTS-mhFUE-unsplash.jpg");
+  background-color: hsl(244, 87%, 82%);
+  
 }
 
 
@@ -19,9 +19,9 @@ code {
 
 
 .card-body{
-  /* background-color: chartreuse; */
+  background-color: #41aff8;
   /* box-shadow: 20px; */
-  background-image: url("C:\Users\Adesjh\Desktop\PrasnolProject\CounterApp\counter\billy-huynh-W8KTS-mhFUE-unsplash.jpg");
+  /* background-image: url("C:\Users\Adesjh\Desktop\PrasnolProject\CounterApp\counter\billy-huynh-W8KTS-mhFUE-unsplash.jpg"); */
   color: chartreuse;
   height: auto;
   width: auto;
